@@ -1,2 +1,3 @@
-r = 5+9
-console.log((r));
+let age = Symbol(58)
+
+console.log(age)
